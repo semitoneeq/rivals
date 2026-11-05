@@ -1,0 +1,10 @@
+ARENA DUEL – 1v1 BOT
+
+Das ist ein eigenes Windows-Spiel, kein offizielles Roblox-Rivals-Spiel.
+
+1. Diese Projektdateien bei GitHub in ein NEUES Projekt hochladen.
+2. GitHub -> Actions -> 'Arena Duel - Windows EXE'.
+3. Nach erfolgreichem Build unter 'Artifacts' -> 'ArenaDuel-Windows' laden.
+4. ZIP entpacken, 'ArenaDuel.exe' starten.
+
+Steuerung: WASD, Maus, Linksklick, R, Shift, ESC, Tab.
